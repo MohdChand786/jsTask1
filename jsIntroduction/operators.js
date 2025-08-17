@@ -38,7 +38,7 @@ console.log("Strictly not Equal to: 2 !== '2' is", 2 !== '2');
 console.log("Greater than: 2 > 2 is", 2 > 2);
 console.log("Less than: 2 < 2 is", 2 < 2);
 console.log("Greater than or Equal to: 2 >= 2 is", 2 >= 2);
-console.log("Less than or Equal to: 2 >= 2 is", 2 >= 2);
+console.log("Less than or Equal to: 2 <= 2 is", 2 <= 2);
 
 
 // 4. Logical Operators
